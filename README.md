@@ -1,8 +1,8 @@
 Content-Based Movie Recommendation System
 =========================================
 
-# Deployment Link: [Demo at Streamlit]([https://rock-mine-prediction.streamlit.app/](https://content-based-movie-recommend.streamlit.app/))
-
+# Deployment Link: [Demo at Streamlit]([https://rock-mine-prediction.streamlit.app/](https://content-based-movie-recommend.streamlit.app/)
+)
 Overview
 --------
 
